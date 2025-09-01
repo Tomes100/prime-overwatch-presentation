@@ -13,6 +13,8 @@
 </script>
 
 <div style="min-height:60vh;display:flex;align-items:center;justify-content:center;font-size:2rem;">
+ Prime Cloud presentation comming soon
+ <br />
  Redirecting to Prime Overwatch in {seconds}s...
 </div>
 
