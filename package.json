@@ -3,9 +3,12 @@
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
+	"engines": {
+		"node": ">=20.19"
+	},
 	"scripts": {
 		"dev": "vite dev",
-		"build": "svelte-kit build",
+		"build": "vite build",
 		"preview": "vite preview",
 		"start": "node build",
 		"prepare": "svelte-kit sync || echo ''",
